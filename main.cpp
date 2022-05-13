@@ -60,4 +60,3 @@ int main() {
     }
 }
 
-#pragma clang diagnostic pop
